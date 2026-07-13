@@ -19,3 +19,9 @@ GROUP BY statement is used to group rows that have the same values into summary
 SELECT Country, COUNT(id) AS [Number of Customers]
 FROM Customers
 GROUP BY Country;
+
+## References
+
+- [SQLite SELECT and GROUP BY documentation](https://www.sqlite.org/lang_select.html)
+- [SQLite aggregate functions](https://www.sqlite.org/lang_aggfunc.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)

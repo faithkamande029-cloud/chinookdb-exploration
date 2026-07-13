@@ -13,3 +13,9 @@ SELECT *
 FROM customer
 WHERE LOWER(FirstName) = 'firstname'
 
+## References
+
+- [SQLite SELECT and WHERE documentation](https://www.sqlite.org/lang_select.html)
+- [SQLite expression documentation](https://www.sqlite.org/lang_expr.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)
+

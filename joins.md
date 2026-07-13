@@ -16,3 +16,8 @@
 
 # Full join
 - Returns all matching records
+
+## References
+
+- [SQLite JOIN documentation](https://www.sqlite.org/lang_select.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)

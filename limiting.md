@@ -16,3 +16,8 @@ FROM customer
 WHERE county = "USA"
 ORDER BY LastName DESC
 LIMIT number_of_rows;
+
+## References
+
+- [SQLite LIMIT documentation](https://www.sqlite.org/lang_select.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)

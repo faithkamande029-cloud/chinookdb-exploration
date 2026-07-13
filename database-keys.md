@@ -13,3 +13,8 @@
 - A candidate key that isnt a PK
 # Super Key
 - Any set of one or more columns that uniquely identify records within a table
+
+## References
+
+- [SQLite foreign-key documentation](https://www.sqlite.org/foreignkeys.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)
