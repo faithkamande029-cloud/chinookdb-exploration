@@ -1,8 +1,9 @@
 # Keys estuary.dev and youtube
 - keys are attributes (colums)that are used in uniqueness and establishing relationships
-# Primary key
+
+## Primary key
 - It is used to uniquely identify each record in a table
-# Foreign key
+## Foreign key
 - Used to link 2 tables together by referencing the PK and also in referential integrity
 # Candidate key
 - Any column or set of columns that could qualify as a PK due to unique values

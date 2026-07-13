@@ -2,6 +2,15 @@
 
 Restricts the maximum number of rows returned in the final result set.
 
+#####
+1. simple cut offs
+2. Can skip over using OFFSET
+3. You can finf the top number/ numbers
+
+# Syntax 
+LIMIT <n>
+
+## Example
 SELECT PostalCode
 FROM customer
 WHERE county = "USA"
