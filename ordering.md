@@ -22,3 +22,8 @@ SELECT FirstName, PostalCode
 FROM customers
 ORDER BY LastName ASC
 LIMIT 10;
+
+## References
+
+- [SQLite ORDER BY documentation](https://www.sqlite.org/lang_select.html)
+- [Chinook sample database](https://github.com/lerocha/chinook-database)
